@@ -2,7 +2,7 @@
 
 This repository serves as a structured collection of my personal study notes and problem-solving exercises based on the textbook Calculus by Ron Larson and Bruce Edwards (11th Edition) .
 
-Rather than a conventional summary, this project functions as a working notebook, where each section reflects my attempt to engage directly with the material through active problem solving. The content is organized in alignment with the textbook’s progression, covering core topics such as limits, differentiation, integration, and their applications.
+Rather than a conventional summary, this project functions as a working notebook, where each section reflects my attempt to engage directly with the material through active problem solving and WITHOUT AI. The content is organized in alignment with the textbook’s progression, covering core topics such as limits, differentiation, integration, and their applications.
 
 The primary objectives of this repository are:
 
